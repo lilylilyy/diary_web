@@ -1,12 +1,11 @@
 {
   "files": {
-    "main.js": "/diary_web/static/js/main.dfdea0bc.js",
+    "main.js": "/diary_web/static/js/main.e768a183.js",
     "static/media/온글잎-지우쏘낭.woff": "/diary_web/static/media/온글잎-지우쏘낭.daaef2c779667db8761e.woff",
     "static/media/온글잎-김콩해.woff": "/diary_web/static/media/온글잎-김콩해.1f69fedfe0fa849544f2.woff",
     "static/media/bg2.jpg": "/diary_web/static/media/bg2.fd1238ac9d0fef5b6862.jpg",
     "static/media/bg3.jpg": "/diary_web/static/media/bg3.38c6e6d4dce145db4cbc.jpg",
     "static/media/insideout.jpg": "/diary_web/static/media/insideout.f6d397c0228da51fb194.jpg",
-    "static/media/bg4.jpg": "/diary_web/static/media/bg4.5feb8658b29855cd3873.jpg",
     "static/media/emotion_4.png": "/diary_web/static/media/emotion_4.a1effa38afe7f48287ad.png",
     "static/media/emotion_5.png": "/diary_web/static/media/emotion_5.4175ce38e61c0d58e32c.png",
     "static/media/emotion_3.png": "/diary_web/static/media/emotion_3.175485211440dbdabd3f.png",
@@ -17,9 +16,9 @@
     "static/media/emotion_2.png": "/diary_web/static/media/emotion_2.b6d572b7a013ece241d7.png",
     "static/media/emotion_1.png": "/diary_web/static/media/emotion_1.e06f8d07fa40ffb2e3ee.png",
     "index.html": "/diary_web/index.html",
-    "main.dfdea0bc.js.map": "/diary_web/static/js/main.dfdea0bc.js.map"
+    "main.e768a183.js.map": "/diary_web/static/js/main.e768a183.js.map"
   },
   "entrypoints": [
-    "static/js/main.dfdea0bc.js"
+    "static/js/main.e768a183.js"
   ]
 }
